@@ -1,4 +1,3 @@
-layout_spectrum: 0.29396627144888043
 typography_spectrum: 0.23170287488028407
 color:
   brandStrength: 0.4417182095348835
@@ -6,9 +5,14 @@ color:
   saturation: 0.11416962603107095
   rhythmicContrast: 0.45089552481658757
   brandColors:
-    - '#1E1D1B'
-    - '#F7F6F1'
-    - '#AE9979'
-    - '#FF222A'
-    - '#FDE721'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.29396627144888043
+author:
+  name: Mike Meleski
+  email: mike@meleski.com
 name: Aero Vision
+title: Low Altitude Video & Photography
