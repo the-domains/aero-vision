@@ -1,0 +1,14 @@
+layout_spectrum: 0.29396627144888043
+typography_spectrum: 0.23170287488028407
+color:
+  brandStrength: 0.4417182095348835
+  lightness: 0.12074550008401275
+  saturation: 0.11416962603107095
+  rhythmicContrast: 0.45089552481658757
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Aero Vision
